@@ -1,4 +1,4 @@
-# Portfolio d'Étudiant Alternant en Cybersécurité - Hugues TOGBEDJI
+# Hugues TOGBEDJI - Alternant en Cybersécurité
 
 ## 🎓 À Propos de Moi
 
@@ -18,7 +18,7 @@
 
 ### Tests de Pénétration
 
-- 🌐 Mise en œuvre de tests d'intrusion sur des environnements simulés pour identifier et remédier aux vulnérabilités.
+- 🌐 Mise en œuvre de tests d'intrusion sur des environnements simulés pour identifier et remédier aux vulnérabilités SI et Systèmes embarqués.
 
 ## 📝 Articles de Blog
 
