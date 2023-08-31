@@ -48,4 +48,4 @@ Mon objectif est de continuer à développer mes compétences en cybersécurité
 
 ## 📬 Contact
 
-Je suis ouvert aux discussions et aux opportunités. N'hésitez pas à me contacter à [votre@email.com](mailto:votre@email.com).
+Je suis ouvert aux discussions et aux opportunités. N'hésitez pas à me contacter à [prudencetogbedji@gmail.com](mailto:votre@email.com).
